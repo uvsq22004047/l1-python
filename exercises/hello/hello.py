@@ -1,2 +1,2 @@
-msg = ""
-print()
+msg = "comment tu vas ? "
+print(msg)
